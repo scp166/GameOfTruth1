@@ -1,0 +1,23 @@
+{
+  "name": "gameoftruth1",
+  "version": "1.0.0",
+  "description": "this is a horible game",
+  "main": "book.js",
+  "scripts": {
+    "build": "gitbook build",
+    "serve": "gitbook serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scp166/GameOfTruth1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/scp166/GameOfTruth1/issues"
+  },
+  "homepage": "https://github.com/scp166/GameOfTruth1#readme",
+  "dependencies": {
+    "gitbook-plugin-search-pro-ling": "^1.0.0"
+  }
+}
